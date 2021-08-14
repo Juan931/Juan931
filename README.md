@@ -1,10 +1,13 @@
 ### Hi, I'm Juan  there 👋
 
+<a href ="#">
+<img align="left" alt=photo src= "https://cdn.pixabay.com/photo/2016/01/07/20/46/link-1126511_960_720.jpg" width="1000" height="300"/>
+</a>
+</br>
 
+💬
 
-
-class about extends me {
-
+ class about extends me {
 
   name    =  'Juan David Medina';
   
