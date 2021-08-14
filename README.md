@@ -3,7 +3,7 @@
 
 
 💬
-
+```js
  class about extends me {
 
   name    =  'Juan David Medina';
@@ -40,7 +40,7 @@ const Juan = {
 
 
 database: ["MySql"]
-
+```
 You can find me 🐈‍🌱 :
 - [linkedin]     (https://www.linkedin.com/in/juan-david-medina-hern%C3%A1ndez-b9324b113/)
 - [interacpedia]  (https://interacpedia.com/user/juan-david-medina-hernandez)
