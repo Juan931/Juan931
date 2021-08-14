@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi, I'm Juan  there 👋
 
+const Juan = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C#,],
+ 
+  frontEnd: {
+            js: ["Angular"],
+            css: ["sass", "tailwind"]
+        },
+  backEnd: {
+            js: ["Nest", "Node"],
+              
+  
+ <!--challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"-->
+}
+databases: ["MySql"]
 <!--
 **Juan931/Juan931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
