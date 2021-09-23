@@ -34,12 +34,13 @@ const Juan = {
   
             js: ["Nest", "Node"]
               
-  
+  },
 
 }
 
-
 database: ["MySql"]
+}
+
 ```
 You can find me 🐈‍🌱 :
 - [linkedin]     (https://www.linkedin.com/in/juan-david-medina-hern%C3%A1ndez-b9324b113/)
