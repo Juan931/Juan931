@@ -15,10 +15,6 @@
   location =  'Colombia, Bogotá';
   
 }
-
-
-
-
 const Juan = {
   
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#],
@@ -39,7 +35,9 @@ const Juan = {
 }
 
 database: ["MySql"]
+
 }
+
 
 ```
 You can find me 🐈‍🌱 :
