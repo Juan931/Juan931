@@ -10,7 +10,7 @@
   
   title   =   'Developer Junior';
   
-  company =    null;
+  company =    SQDM;
   
   location =  'Colombia, Bogotá';
   
