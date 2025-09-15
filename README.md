@@ -8,29 +8,16 @@
 
   name    =  'Juan David Medina';
   
-  title   =   'Developer Junior';
+  title   =   'Android Developer';
   
-  company =    SQDM;
+  company =    Ex Mercadolibre;
   
   location =  'Colombia, Bogotá';
   
 }
 const Juan = {
   
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C#],
- 
-  frontEnd: {
-  
-            js: ["Angular"],
-            css: ["sass", "tailwind"]
-        },
-        
-        
-  backEnd: {
-  
-            js: ["Nest", "Node"]
-              
-  },
+  code: [Javascript, Kotlin, Python, Go],
 
 }
 
@@ -42,7 +29,6 @@ database: ["MySql"]
 ```
 You can find me 🐈‍🌱 :
 - [linkedin]     (https://www.linkedin.com/in/juan-david-medina-hern%C3%A1ndez-b9324b113/)
-- [interacpedia]  (https://interacpedia.com/user/juan-david-medina-hernandez)
 
 [![Juan931's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan931)](https://github.com/anuraghazra/github-readme-stats)
 
