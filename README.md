@@ -8,7 +8,7 @@
 
   name    =  'Juan David Medina';
   
-  title   =   'Android Developer';
+  title   =   'Software Developer';
   
   company =    Ex Mercadolibre;
   
@@ -21,7 +21,7 @@ const Juan = {
 
 }
 
-database: ["MySql"]
+database: ["MySql" - "PostgreSQL"]
 
 }
 
